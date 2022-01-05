@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    display: flex;
+    padding: 40px 80px;
+}
+.content{
+    width: 50%;
+    
+}
+.header .half-width{
+    padding-top: 6%;
+}
+.photo-width{
+    display: block;
+    text-align: right;
+
+}
+.content img{
+    width: 70%;
+    
+}
+.content .mission-text{
+    border-left: 2px solid tomato;
+    padding-left: 10px;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.content p{
+    font-size: 26px;
+    text-align: justify;
+    padding-bottom: 5px;
+}
+.content .text-color{
+    color: orangered;
+}
+.content a{
+    text-decoration: none;
+    background-color: #04aa6d;
+    color: white;
+    padding: 12px 40px;
+    margin-top: 10px;
+    display: inline-block;
+    font-size: 20px;
+    margin-bottom: 22px;
+    border-radius: 7px;
+}
+.goal h1{
+    display: inline-block;
+
+
+}
+.goal {
+    display: flex;
+    padding: 40px 80px;
+}
+.goal img{
+    width: 50%;
+}
+.division{
+    width: 33.33%;
+    margin: 12px;
+    border-radius: 40px;
+    padding: 40px;
+}
+.documation{
+    display: flex;
+    padding: 40px 80px;
+}
+.documation img{
+    width: 95%;
+}
+.documation .person{
+    width: 30%;
+
+}
+.documation .docu-details{
+    width: 70%;
+    padding-top: 8%;
+    padding-left: 50px;
+}
+.docu-details h1{
+    font-size: 50px;
+}
+.docu-details p{
+    font-size: 26px;
+    margin: 15px 0;
+    
+}
+.docu-details a{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 12px 40px;
+    color: white;
+    margin-top: 15px;
+    display: inline-block;
+}
+.another-docu{
+    display: flex;
+    padding: 40px 80px;
+}
+.another-docu img{
+    width: 95%;
+}
+.another-docu .details{
+    width: 70%;
+}
+.another-docu .details h1{
+    font-size: 50px;
+}
+.another-docu .details p{
+    font-size: 26px;
+    margin: 15px 0;
+}
+.another-docu .details a{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 12px 40px;
+    color: white;
+    margin-top: 15px;
+    display: inline-block;
+}
+.another-docu .person{
+    width: 30%;
+}
+.skill{
+    padding: 40px 80px;
+}
+.skill .range{
+    width: 100%;
+    height: 10px;
+    background-color: #bbb;
+    margin: 10px 0;
+}
+.skill .range .overlay{
+    width: 80%;
+    height: 10px;
+    background-color: coral;
+
+}
+.right{
+    float: right;
+    padding-right: 20%;
+}
+.last-sec{
+    background-color: #111;
+    color: white;
+    text-align: center;
+    padding: 30px 0;
+}
+.last-sec span{
+    color: tomato;
+}
+.last-sec h1{
+    font-size: 40px;
+    margin-bottom: 15px;
+    font-family: 'Poppins', sans-serif;
+}
