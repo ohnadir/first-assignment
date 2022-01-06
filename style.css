@@ -84,12 +84,13 @@ body{
 }
 .documation .person{
     width: 30%;
+    margin-left: 12px;
 
 }
 .documation .docu-details{
     width: 70%;
     margin-top: 6%;
-    padding-left: 50px;
+    margin-left: 60px;
 }
 .docu-details h1{
     font-size: 40px;
